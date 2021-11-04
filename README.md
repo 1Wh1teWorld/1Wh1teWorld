@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1Wh1teWorld
 - 👀 I’m interested in Linux, bash, automation, cyber security.
-- 🌱 I’m currently studying Cyber Security, Networking & Forensics. Currently learning bash commands and shell concepts, building a password manager.
+- 🌱 I’m currently studying Cyber Security, Networking & Forensics. Currently programming a Discord bot in python and learning more about Python in general.
 - 💞️ I’m looking to collaborate on any small projects such as password managers, file downloaders and other 'housekeeping' projects.
 - 📫 How to reach me: QbGeWdf9xVYtUsvwH3QTfi@protonmail.ch
